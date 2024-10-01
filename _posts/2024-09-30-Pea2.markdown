@@ -15,12 +15,12 @@ Además, nos aseguramos de proporcionar un servicio de logística rápido y efic
 
 {% highlight ruby %}
 En nuestra tienda, nos comprometemos a ofrecerte la mejor experiencia de compra en el mercado de celulares.<br>
-Nuestro enfoque está en brindar dispositivos de alta calidad, adaptados a las necesidades de nuestros clientes, con un equilibrio perfecto entre precio y rendimiento.<br>
-Desde los modelos más populares y accesibles, hasta los más avanzados, cada mes renovamos nuestro inventario para que siempre tengas acceso a lo último en tecnología.
+Nuestro enfoque está en brindar dispositivos de alta calidad, adaptados a las necesidades de <br>nuestros clientes, con un equilibrio perfecto entre precio y rendimiento.<br>
+Desde los modelos más populares y accesibles, hasta los más avanzados, cada mes renovamos <br>nuestro inventario para que siempre tengas acceso a lo último en tecnología.
 {% endhighlight %}
 
 
-Para ver nuestra planificacion de costo entre aqui [referencia01].
+Para ver nuestra planificacion de costo entre aqui [plantillaCostos].
 
-[referencia01]: https://isise-my.sharepoint.com/:x:/g/personal/2017203209_isise_edu_pe/EZ5hDc81HhdMsVDyvI3GDSgBccMkxg_ulW9w0VF9I_fJfQ?e=b7W7N6
+[plantillaCostos]: https://isise-my.sharepoint.com/:x:/g/personal/2017203209_isise_edu_pe/EZ5hDc81HhdMsVDyvI3GDSgBccMkxg_ulW9w0VF9I_fJfQ?e=b7W7N6
 
