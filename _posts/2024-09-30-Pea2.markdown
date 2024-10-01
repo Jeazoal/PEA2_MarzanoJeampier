@@ -5,7 +5,7 @@ date:   2024-09-30 20:19:15 -0500
 categories: jekyll update
 ---
 
-`Bienvenido a Nuestra Tienda de Celulares`
+Bienvenido a Nuestra Tienda de Celulares
 En nuestra tienda, nos especializamos en ofrecerte las mejores marcas de celulares a precios accesibles, con una amplia gama de modelos que se adaptan a tus necesidades. Cada mes, trabajamos para traer los últimos lanzamientos de marcas reconocidas como Xiaomi, Samsung, Motorola, Oppo, Realme, y más, para que siempre encuentres el dispositivo ideal para ti.
 
 Gracias a nuestra inversión inicial y continua en la adquisición de productos, garantizamos que nuestros clientes siempre tengan acceso a los mejores modelos del mercado. Nuestro enfoque está en ofrecer tanto calidad como valor, permitiendo que obtengas dispositivos de última generación con un excelente rendimiento y características, todo al mejor precio.
@@ -13,11 +13,9 @@ Gracias a nuestra inversión inicial y continua en la adquisición de productos,
 Además, nos aseguramos de proporcionar un servicio de logística rápido y eficiente, para que tu compra llegue a tus manos en el menor tiempo posible, junto con opciones de soporte y garantía confiables.
 
 
-{% highlight ruby %}
-En nuestra tienda, nos comprometemos a ofrecerte la mejor experiencia de compra en el mercado de celulares.<br>
-Nuestro enfoque está en brindar dispositivos de alta calidad, adaptados a las necesidades de <br>nuestros clientes, con un equilibrio perfecto entre precio y rendimiento.<br>
-Desde los modelos más populares y accesibles, hasta los más avanzados, cada mes renovamos <br>nuestro inventario para que siempre tengas acceso a lo último en tecnología.
-{% endhighlight %}
+En nuestra tienda, nos comprometemos a ofrecerte la mejor experiencia de compra en el mercado de celulares.
+Nuestro enfoque está en brindar dispositivos de alta calidad, adaptados a las necesidades de nuestros clientes, con un equilibrio perfecto entre precio y rendimiento.
+Desde los modelos más populares y accesibles, hasta los más avanzados, cada mes renovamos nuestro inventario para que siempre tengas acceso a lo último en tecnología.
 
 
 Para ver nuestra planificacion de costo entre aqui [plantillaCostos].
